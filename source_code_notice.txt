@@ -1,0 +1,13 @@
+==========================================================================
+                      ZENITH B2B RESEARCH ENGINE
+==========================================================================
+
+Zenith is a proprietary commercial market intelligence software platform.
+This repository serves as the public storefront, hosting compiled client
+installers, documentation, and the public issue tracker.
+
+The core agent operations pipeline, synthesis engine, and prompt sets
+are closed-source commercial intellectual property.
+
+* License Purchase & Activation: https://aib2bplanner.com
+* Public Issues & Support: https://github.com/RorriMaesu/local-ai-b2b-market-research-tool/issues
